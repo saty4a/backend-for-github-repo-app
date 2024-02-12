@@ -1,0 +1,14 @@
+[
+  {
+    "id": "cf5949d9c0271599092e61049d5ffbdb",
+    "userName": "Satya",
+    "email": "satyabrat@gmail.com",
+    "password": "$2b$10$LODwnwzSW5r5Jf2jmPyUg.zPZ9XUubmvnHcSV5lRTHQEw.uHU7isO"
+  },
+  {
+    "id": "e0f084e16c79c4cb9c25815cfe6a68b6",
+    "userName": "Satya",
+    "email": "satya@gmail.com",
+    "password": "$2b$10$SlXQRuPRVdWwiea6O4VhheB3zc3LPhHcjnlyWOdC3B561HU3xwlwW"
+  }
+]
